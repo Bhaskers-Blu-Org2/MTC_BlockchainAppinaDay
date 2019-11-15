@@ -18,7 +18,34 @@ Developers seeking to gain hands-on design, development, and deployment knowledg
 ## Requirements
 1. Each attendee must have their own PC pre-configured according to provided instructions
 2. Each attendee/company must have access to an Azure subscription with the right to deploy resource groups and services
-3. Pre-work must be completed and validated prior to the workshop. No time will be spent on pre-work during the workshop; it’s important this work is completed ahead of time.
+3. [Prework](.\prework\readme.md) must be completed and validated prior to the workshop. No time will be spent on pre-work during the workshop; it’s important this work is completed ahead of time
+
+## Agenda
+| Time          | Session |
+|:-------------:|:------- |
+| 9:00 | Welcome, Introductions, Logistics |
+| 9:15 | Blockchain Positioning and Strategy |
+|      | - Understand roles for blockchain and Microsoft strategy |
+|      | - Discuss use cases across industries |
+| 10:00 | Azure Blockchain Workbench Solution Review |
+|       | - Demonstrate and review a completed Azure Blockchain Workbench solution |
+| 10:30 | Azure Blockchain Workbench, Sample Solution, Code Walkthrough |
+|       | - Azure Blockchain Workbench Architecture |
+|       | -	Deploy sample solution |
+|       | -	Hands-on walkthrough of Solidity code and Azure Blockchain Workbench solution configuration |
+| 12:00 | Lunch |
+| 12:30 | MVP - Solution Development and Deployment |
+|       | - Scope an MVP, its role, states, transitions |
+|       | - Develop code for the MVP, test locally |
+|       | - Deploy the MVP to Azure Blockchain Workbench |
+|       | - Extend the Azure Blockchain Workbench MVP |
+| 3:30  | Extending Azure Blockchain Workbench, Architecture |
+|       | - Solutions to extend Azure Blockchain Workbench
+|       | - API/integration models |
+|       | - GitHub repos, samples, and forums |
+|       | - Open discussion on development, architecture, and platform questions |
+| 4:30  | Closure |
+
 
 ## Links
 [GitHub – Blockchain App in a Day Workshop](https://aka.ms/blockchainappinaday)
