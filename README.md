@@ -18,7 +18,7 @@ Developers seeking to gain hands-on design, development, and deployment knowledg
 ## Requirements
 1. Each attendee must have their own PC pre-configured according to provided instructions
 2. Each attendee/company must have access to an Azure subscription with the right to deploy resource groups and services
-3. [Prework](.\prework\readme.md) must be completed and validated prior to the workshop. No time will be spent on pre-work during the workshop; it’s important this work is completed ahead of time
+3. [Prework](https://github.com/microsoft/MTC_BlockchainAppinaDay/tree/master/Prework) must be completed and validated prior to the workshop. No time will be spent on pre-work during the workshop; it’s important this work is completed ahead of time
 
 ## Agenda
 | Time          | Session |
